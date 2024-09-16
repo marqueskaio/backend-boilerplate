@@ -1,0 +1,12 @@
+# Ignorar a pasta node_modules
+node_modules/
+
+# Ignorar o arquivo .env (que contém informações sensíveis)
+.env
+
+# Ignorar a pasta dist (que contém o código compilado)
+dist/
+
+# Ignorar outros arquivos temporários ou específicos do seu ambiente
+.DS_Store
+Thumbs.db
